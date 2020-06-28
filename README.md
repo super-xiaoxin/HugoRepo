@@ -1,1 +1,1 @@
-# HugoRepo
+Hi,Hugo.
